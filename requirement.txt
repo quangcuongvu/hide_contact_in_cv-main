@@ -1,0 +1,9 @@
+imgaug==0.4.0
+pyclipper
+lmdb
+tqdm
+opencv-contrib-python==4.2.0.32
+shapely
+scikit-image==0.17.2
+Flask==2.0.1
+pdf2image==1.15.1
